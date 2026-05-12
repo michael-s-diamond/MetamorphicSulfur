@@ -9,4 +9,4 @@ SimpleClimateModel.ipynb: Jupyter Notebook for converting metamorphic C and S fl
 
 Data included are:
 --
-TT_Xflux_MM.csv: Annual fluxes of X (C for carbon, S for sulfur) for a sill exmplacement of TT (Instantaneous or 10yr) using model MM (AR (default), eqm, LR, Ro for carbon; AR, eqm, Fegley, HF (default), Linert, and LR for sulfur). For the volcanic-like emissions in Figure 9, use MM = AR_volceq for carbon and MM = HF_volceq for sulfur.
+TT_Xflux_MM.csv: Annual fluxes of X (C for carbon, S for sulfur) for a sill exmplacement of TT (Instantaneous or 10yr) using model MM (AR (default), eqm, LR, Ro for carbon; AR, eqm, Fegley, HF (default), Linert, LR for sulfur). For the volcanic-like emissions in Figure 9, use MM = AR_volceq for carbon and MM = HF_volceq for sulfur.
