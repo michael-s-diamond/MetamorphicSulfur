@@ -1,6 +1,9 @@
 # MetamorphicSulfur
 Data and code to reproduce the analyses in Stewart et al. (2026), Metamorphic sulfur release as a driver of sustained cooling and mass extinction, Science Advances
 
+doi:10.5281/zenodo.20146614
+[![DOI](https://zenodo.org/badge/1235941055.svg)](https://doi.org/10.5281/zenodo.20146613)
+
 Scripts included are:
 --
 *.mat or *.m: MATLAB scripts for generating metamorphic C and S fluxes.
