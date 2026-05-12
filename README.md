@@ -3,10 +3,9 @@ Data and code to reproduce the analyses in Stewart et al. (2026), Metamorphic su
 
 Scripts included are:
 --
-SimpleClimateModel.ipynb: Notebook for converting metamorphic C and S fluxes into CO2 concentration (carbon cycle model) and effective radiative forcings (climate model emulator)
+*.mat or *.m: MATLAB scripts for generating metamorphic C and S fluxes.
 
-
-
+SimpleClimateModel.ipynb: Jupyter Notebook for converting metamorphic C and S fluxes into CO2 concentration (carbon cycle model) and effective radiative forcings (climate model emulator).
 
 Data included are:
 --
